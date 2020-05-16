@@ -14,9 +14,14 @@ TBD - via Heroku
 - React
 - Node.JS
 - Express.JS
-- React-Tilt for the logo
-- Clarifai API (clarifai.com)
+- Image recpgnition API - Clarifai API (clarifai.com)
+
+- React-Tilt for the animated logo | Tachyons CSS Toolkit | Particles.JS
 
 ## User stories
 
 -
+
+## Notes
+
+- CSS3 Patters Gallery (carbon fiber>Search)
