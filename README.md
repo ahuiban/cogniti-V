@@ -27,3 +27,4 @@ TBD - via Heroku
 ## Notes
 
 - CSS3 Patters Gallery (carbon fiber>Search)
+- KNEX.JS for connectind to the database
