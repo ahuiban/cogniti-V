@@ -4,7 +4,8 @@ Face recognition App using React, Node and Express
 
 ## The Website:
 
-TBD - via Heroku
+- frontEnd - Heroku
+- database - Heroku-PostgreSQL
 
 ## Technologies used
 
@@ -16,7 +17,7 @@ TBD - via Heroku
 - Node.JS
 - Express.JS
 
-- PostreSQL
+- PostgreSQL
 
 - Image recognition API - Clarifai API (clarifai.com)
 
