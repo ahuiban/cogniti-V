@@ -11,7 +11,7 @@ TBD - via Heroku
 - HTML
 - CSS
 - Javascript
-- React
+- React(create-react-app)
 
 - Node.JS
 - Express.JS
