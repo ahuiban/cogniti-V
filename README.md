@@ -12,8 +12,10 @@ TBD - via Heroku
 - CSS
 - Javascript
 - React
+
 - Node.JS
 - Express.JS
+
 - PostreSQL
 
 - Image recognition API - Clarifai API (clarifai.com)
