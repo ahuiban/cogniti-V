@@ -16,7 +16,7 @@ TBD - via Heroku
 - Express.JS
 - PostreSQL
 
-- Image recpgnition API - Clarifai API (clarifai.com)
+- Image recognition API - Clarifai API (clarifai.com)
 
 - React-Tilt for the animated logo | Tachyons CSS Toolkit | Particles.JS
 
