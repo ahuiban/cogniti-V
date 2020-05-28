@@ -4,8 +4,7 @@ Face recognition App using React, Node and Express
 
 ## The Website:
 
-- frontEnd - Heroku
-- database - Heroku-PostgreSQL
+!!!
 
 ## Technologies used
 
